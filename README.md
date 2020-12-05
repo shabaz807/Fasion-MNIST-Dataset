@@ -1,7 +1,7 @@
 # Fasion-MNIST-Dataset
 Building a neural network using PyTorch and train it on the fashion-MNIST dataset.
 
-> The architecture of the neural network that you should build is given below.
+> The architecture of the neural network that's built is given below.
 > The choice of selection of Activation functions, Optimizers, Batch sizes, and other hyperparameters is yours. But make sure you use the suitable ones.
 > Make sure you train your model on GPU in google colaboratory.
 > Train your model in mini-batches using the DataLoader.
